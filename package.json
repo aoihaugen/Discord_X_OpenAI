@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "discord-interactions": "^3.2.0",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "next": "^13.1.1",
+    "openai": "^3.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "name": "discord_x_openai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aoihaugen/Discord_X_OpenAI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aoihaugen/Discord_X_OpenAI/issues"
+  },
+  "homepage": "https://github.com/aoihaugen/Discord_X_OpenAI#readme",
+  "description": ""
+}
