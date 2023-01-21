@@ -24,5 +24,6 @@ OPENAI_API_KEY="YOUR OPENAI API KEY HERE"
 
 ## Usage
 
-After you have added the bot to your Discord server and followed the instructions above do the following:
-In any chat on the server where the bot has access type: `AI:` followed by the whatever you want to ask the OpenAI GPT3 model.
+After you have added the bot to your Discord server and followed the instructions above do one of the following:
+In any chat on the server where the bot has access type: `AI:` followed by whatever you want to ask the OpenAI GPT3 model.
+In any chat on the server where the bot has access type: `AIPICTURE:` followed by the what type of picture you want the AI to generate.
